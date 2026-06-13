@@ -1,7 +1,5 @@
 <div align="center">
 
-# Kirian Luna
-
 Systems Engineering  ·  Full-Stack Developer
 
 Building modern web applications, internal platforms and digital products.
