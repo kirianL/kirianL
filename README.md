@@ -7,27 +7,15 @@ Focused on building clean, minimal, and high-fidelity web experiences. Currently
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kirianluna/" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/E6EDF3" />
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/linkedin/24292F" />
-      <img src="https://cdn.simpleicons.org/linkedin/24292F" width="20" height="20" alt="LinkedIn" />
-    </picture>
+    <img src="https://cdn.simpleicons.org/linkedin/8b949e" width="20" height="20" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/kirianL/Kirian_portfolio" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/E6EDF3" />
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/vercel/24292F" />
-      <img src="https://cdn.simpleicons.org/vercel/24292F" width="20" height="20" alt="Portfolio" />
-    </picture>
+    <img src="https://cdn.simpleicons.org/vercel/8b949e" width="20" height="20" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:kirianluna.u@gmail.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/E6EDF3" />
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gmail/24292F" />
-      <img src="https://cdn.simpleicons.org/gmail/24292F" width="20" height="20" alt="Email" />
-    </picture>
+    <img src="https://cdn.simpleicons.org/gmail/8b949e" width="20" height="20" alt="Email" />
   </a>
 </p>
 
