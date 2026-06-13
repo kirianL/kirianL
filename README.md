@@ -1,83 +1,211 @@
-<h1 align="left"><b>KIRIAN LUNA</b></h1>
-<p align="left"><i>Systems Engineer & Full Stack Developer</i></p>
+<h1 align="left">Kirian Luna</h1>
 
 <p align="left">
-Focused on building clean, minimal, and high-fidelity web experiences. Currently co-running <b>KyJ Solutions</b>, designing and developing real-world digital products.
+  <strong>Full Stack Engineer • Systems Engineering Student</strong>
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/kirianluna/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/8b949e" width="20" height="20" alt="LinkedIn" />
+Building scalable web applications, SaaS products, and high-performance digital experiences.
+Focused on modern web technologies, software architecture, cloud solutions, and user-centered design.
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/kirianluna/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/kirianL/Kirian_portfolio" target="_blank">
-    <img src="https://cdn.simpleicons.org/vercel/8b949e" width="20" height="20" alt="Portfolio" />
+  <a href="https://github.com/kirianL/Kirian_portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="mailto:kirianluna.u@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/8b949e" width="20" height="20" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<br>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kirianL&label=Profile%20Views&style=flat-square&color=58a6ff" alt="Profile Views" />
+</p>
 
 ---
 
-### About
+## About
 
-*   **Location** &mdash; Limón, Costa Rica 🇨🇷
-*   **Education** &mdash; Systems Engineering &bull; Universidad Latina de Costa Rica
-*   **Languages** &mdash; Spanish (Native), English, Portuguese
-*   **Interests** &mdash; UI/UX Design, Web Performance, Desktop Apps, Music Tech
+<table>
+<tr>
+<td width="50%">
 
----
+```yaml
+Location: Limón, Costa Rica
+Education: Systems Engineering
+University: Universidad Latina de Costa Rica
 
-### Projects
+Languages:
+  - Spanish (Native)
+  - English
+  - Portuguese
+```
 
-*   **Limón: Realidad y Esencia**  
-    *Cultural documentary website about Limón, Costa Rica.*  
-    `Next.js` `Leaflet` `TailwindCSS`
+</td>
+<td width="50%">
 
-*   **Sistema LEBP**  
-    *Full school management system with PWA capabilities, grading, and reports.*  
-    `Next.js` `Prisma` `Supabase` `PostgreSQL`
+```yaml
+Focus Areas:
+  - Full Stack Development
+  - SaaS Applications
+  - Cloud Architecture
+  - UI/UX Design
+  - Performance Optimization
+```
 
-*   **ConversorApp**  
-    *Cross-platform desktop converter application built with Tauri.*  
-    `Tauri` `React` `Rust`
-
-*   **FinanzasUMP**  
-    *Financial management dashboard and report system for UMP Music.*  
-    `Next.js` `Supabase` `Recharts`
-
-*   **SorinLabs**  
-    *Creative tech company website featuring premium animations.*  
-    `Next.js` `GSAP` `Framer Motion`
-
----
-
-### Tech Stack
-
-*   **Frontend** &mdash; React, Next.js, TypeScript, JavaScript, TailwindCSS, Framer Motion, GSAP
-*   **Backend** &mdash; Node.js, PHP, Laravel, Prisma ORM, Supabase, PostgreSQL, SQL Server
-*   **Tools** &mdash; Git, Vercel, Vite, Tauri, Figma, VS Code
+</td>
+</tr>
+</table>
 
 ---
 
-### Stats
+## Currently Building
 
-<div align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=kirianL&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
-  &nbsp;&nbsp;
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirianL&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
-</div>
+* **KyJ Solutions** — Custom software and digital solutions.
+* **Sistema LEBP** — Educational management platform with PWA capabilities.
+* **FinanzasUMP** — Financial reporting and management dashboard.
+* **SorinLabs** — Premium digital experiences and creative technology.
 
-<br>
+---
 
-<div align="left">
+## Tech Stack
+
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,framer" />
+</p>
+
+### Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,postgres,mysql,supabase,prisma" />
+</p>
+
+### Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vite,tauri,figma,vscode" />
+</p>
+
+---
+
+## Featured Projects
+
+### Limón: Realidad y Esencia
+
+Cultural platform that showcases the history, identity, and heritage of Limón, Costa Rica through interactive experiences and digital storytelling.
+
+**Stack**
+
+`Next.js` `Leaflet` `TailwindCSS`
+
+---
+
+### Sistema LEBP
+
+Educational management platform featuring student administration, grading systems, reporting modules, and Progressive Web App capabilities.
+
+**Stack**
+
+`Next.js` `Prisma` `Supabase` `PostgreSQL`
+
+---
+
+### ConversorApp
+
+Cross-platform desktop application focused on productivity and conversion utilities.
+
+**Stack**
+
+`Tauri` `React` `Rust`
+
+---
+
+### FinanzasUMP
+
+Financial dashboard and reporting platform designed to streamline budgeting and operational insights.
+
+**Stack**
+
+`Next.js` `Supabase` `Recharts`
+
+---
+
+### SorinLabs
+
+Corporate website focused on premium interactions, motion design, and high-end digital experiences.
+
+**Stack**
+
+`Next.js` `GSAP` `Framer Motion`
+
+---
+
+## GitHub Analytics
+
+<p align="left">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=kirianL&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirianL&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=kirianL&theme=github-dark-blue&hide_border=true"
+  />
+</p>
+
+---
+
+## Activity Graph
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kirianL&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## Open Source & Learning
+
+Currently exploring:
+
+* Advanced React patterns
+* Software architecture
+* Cloud infrastructure
+* AI-assisted development workflows
+* Desktop applications with Tauri
+
+---
+
+## Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/kirianluna/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kirianluna.u@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email" />
+  </a>
+  <a href="https://github.com/kirianL/Kirian_portfolio">
+    <img src="https://skillicons.dev/icons?i=vercel" height="42" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+<p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kirianL/kirianL/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kirianL/kirianL/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/kirianL/kirianL/output/github-snake-dark.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/kirianL/kirianL/output/github-snake-dark.svg" />
   </picture>
-</div>
+</p>
