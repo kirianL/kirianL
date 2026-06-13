@@ -1,29 +1,27 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:0d1117&height=150&section=header&text=&fontSize=0&animation=fadeIn" width="100%"/>
+<br>
+
+<!-- HERO -->
+# **KIRIAN LUNA**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&lines=%E2%86%92+Full+Stack+Developer+%7C+Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7;%E2%86%92+Building+clean+%26+functional+web+experiences;%E2%86%92+Turning+ideas+into+real+products)](https://git.io/typing-svg)
 
 <br>
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=28&pause=1000&color=E6EDF3&center=true&vCenter=true&random=false&width=500&lines=Kirian+Luna;Full+Stack+Developer;Building+digital+experiences)](https://git.io/typing-svg)
-
-<br>
-
-<!-- MINIMAL BIO -->
-<samp>
-Software Engineer from Costa Rica 🇨🇷<br>
-Crafting clean, functional & beautiful web experiences.<br>
-I enjoy turning ideas into real products.
-</samp>
+<a href="https://www.linkedin.com/in/kirianluna/">
+<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/kirianL/Kirian_portfolio">
+<img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="mailto:kirianluna.u@gmail.com">
+<img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+</a>
 
 <br><br>
 
-<!-- SOCIAL LINKS -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirianluna/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/kirianL/Kirian_portfolio)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kirianL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirianluna.u@gmail.com)
+<img width="600" src="https://github-widgetbox.vercel.app/api/profile?username=kirianL&data=followers,repositories,stars,commits&theme=darkmode" />
 
 </div>
 
@@ -202,18 +200,13 @@ interests: [UI/UX Design, Web Performance, Desktop Apps, Music Tech]
 
 <br>
 
-<samp>
-
-**"Clean code, clean design, real impact."**
+**`"Clean code, clean design, real impact."`**
 
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kirianL&style=flat-square&color=161b22&label=visitors)
 
-</samp>
-
-<br>
+<br><br>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer&text=&fontSize=0&animation=fadeIn" width="100%"/>
