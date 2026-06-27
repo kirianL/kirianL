@@ -106,12 +106,3 @@ Cultural heritage platform preserving the history and identity of Limón, Costa 
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kirianL&layout=compact&hide_border=true&bg_color=ffffff&title_color=1f2328&text_color=656d76" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirianL&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=7d8590" />
 </picture>
-
-
----
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/kirianluna/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://github.com/kirianL">GitHub</a> &nbsp;·&nbsp; <a href="mailto:kirianluna.u@gmail.com">kirianluna.u@gmail.com</a>
-
-</div>
