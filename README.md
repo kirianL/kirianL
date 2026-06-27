@@ -1,162 +1,99 @@
 <div align="center">
 
-Systems Engineering  ·  Full-Stack Developer
+# Kirian Luna Quirós
 
-Building modern web applications, internal platforms and digital products.
+**Systems Engineer · Full-Stack Developer · Costa Rica**
 
-<br>
-
-<a href="https://www.linkedin.com/in/kirianluna/">LinkedIn</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:kirianluna.u@gmail.com">Email</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/kirianL/Kirian_portfolio">Portfolio</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/kirianL">GitHub</a>
+<a href="https://www.linkedin.com/in/kirianluna/">
+  <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white" height="22" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:kirianluna.u@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" height="22" alt="Email" />
+</a>
+&nbsp;
+<a href="https://github.com/kirianL/Kirian_portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=github&logoColor=white" height="22" alt="Portfolio" />
+</a>
 
 </div>
 
 ---
 
-## About
-
-I'm a software engineer from Costa Rica focused on building modern web applications, business systems and digital experiences.
-
-My interests include software architecture, frontend engineering, backend development, cloud technologies and user-centered design.
-
-Currently working on projects related to education, finance, media and cultural preservation.
+Software engineer from Costa Rica focused on building modern web applications, business systems, and digital experiences. Currently building **Kovira** — a form builder and workflow automation SaaS. Interested in software architecture, frontend engineering, and user-centered design.
 
 ---
 
-## Current Projects
+### Projects
 
-### Sistema LEBP
+<table>
+<tr>
+<td width="33%" valign="top">
 
-Educational management platform designed to streamline student administration, academic records and reporting processes.
+**[Kovira](https://github.com/kirianL)**
 
-**Stack**
+Form builder and workflow automation SaaS. Component library with design system and dark/light mode support.
+
+`Next.js` `TypeScript` `Supabase` `React Flow`
+
+</td>
+<td width="33%" valign="top">
+
+**[Sistema LEBP](https://github.com/kirianL)**
+
+Educational management platform for student administration, academic records and reporting.
 
 `Next.js` `Prisma` `Supabase` `PostgreSQL`
 
----
+</td>
+<td width="33%" valign="top">
 
-### FinanzasUMP
+**[Limón: Realidad y Esencia](https://github.com/kirianL)**
 
-Financial management and reporting platform focused on operational visibility and decision-making.
-
-**Stack**
-
-`Next.js` `Supabase` `TypeScript`
-
----
-
-### Limón: Realidad y Esencia
-
-Digital platform dedicated to preserving and showcasing the history, culture and heritage of Limón, Costa Rica.
-
-**Stack**
+Cultural heritage platform preserving the history and identity of Limón, Costa Rica.
 
 `Next.js` `Leaflet` `Tailwind CSS`
 
----
-
-### KyJ Solutions
-
-Software development initiative focused on delivering custom digital solutions for businesses and organizations.
-
-**Focus Areas**
-
-`Web Development` `Business Systems` `Automation`
+</td>
+</tr>
+</table>
 
 ---
 
-## Technologies
+### Stack
 
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,postgres,mysql,supabase,prisma" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,vite,figma,vscode" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,supabase,prisma,postgres,git,vercel,figma&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,supabase,prisma,postgres,git,vercel,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,supabase,prisma,postgres,git,vercel,figma" alt="Tech stack" />
+</picture>
 
 ---
 
-## GitHub
+### GitHub
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=kirianL&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirianL&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"
-  />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kirianL&show_icons=true&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=7d8590&icon_color=7d8590&ring_color=30363d" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kirianL&show_icons=true&hide_border=true&bg_color=00000000&title_color=1f2328&text_color=656d76&icon_color=656d76&ring_color=d0d7de" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kirianL&show_icons=true&hide_border=true&bg_color=00000000" alt="GitHub stats" />
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kirianL&layout=compact&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=7d8590" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kirianL&layout=compact&hide_border=true&bg_color=00000000&title_color=1f2328&text_color=656d76" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirianL&layout=compact&hide_border=true&bg_color=00000000" alt="Top languages" />
+</picture>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=kirianL&theme=github-dark&hide_border=true"
-  />
-</p>
-
----
-
-## Currently Exploring
-
-- Software Architecture
-- System Design
-- Cloud Infrastructure
-- Performance Optimization
-- Progressive Web Applications
-- Modern Web Development
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kirianL/kirianL/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kirianL/kirianL/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/kirianL/kirianL/output/github-snake-dark.svg" />
+</picture>
 
 ---
 
-## Connect
+<div align="center">
 
-<p align="center">
+<a href="https://www.linkedin.com/in/kirianluna/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://github.com/kirianL">GitHub</a> &nbsp;·&nbsp; <a href="mailto:kirianluna.u@gmail.com">kirianluna.u@gmail.com</a>
 
-<a href="https://www.linkedin.com/in/kirianluna/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-</a>
-
-<a href="mailto:kirianluna.u@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="40" />
-</a>
-
-<a href="https://github.com/kirianL">
-<img src="https://skillicons.dev/icons?i=github" width="40" />
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/kirianL/kirianL/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/kirianL/kirianL/output/github-snake.svg"
-    />
-    <img
-      alt="github contribution snake"
-      src="https://raw.githubusercontent.com/kirianL/kirianL/output/github-snake-dark.svg"
-    />
-  </picture>
-</p>
+</div>
