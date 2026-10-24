@@ -96,11 +96,7 @@ Simple architectures. Explicit types. Accessible interfaces. Performance measure
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kirianL&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=7d8590&icon_color=7d8590" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kirianL&show_icons=true&hide_border=true&bg_color=ffffff&title_color=1f2328&text_color=656d76&icon_color=656d76" />
-  <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kirianL&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=7d8590&icon_color=7d8590" />
-</picture>
+
 
 <br />
 <br />
